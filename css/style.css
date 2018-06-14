@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(http://fonts.googleapis.com/css?family=Odor+Mean+Chey);
 
 html, body {
   height: 100%;
@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(red, yellow);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Times New Roman, Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -25,12 +25,12 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Odor+Mean+Chey', serif;
+  color: royalblue;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 1.5em;
   margin-bottom: 0;
 }
 
